@@ -1,6 +1,5 @@
-# VILAYA (विलयः)
+# VILAYA 
 
-> *"Every group has a purpose, and every purpose has an endpoint..."*
 
 VILAYA is a client-only, privacy-first companion Chrome Extension (Manifest V3) for WhatsApp Web. It enables users to assign predefined lifetimes to temporary WhatsApp groups (events, hackathons, trips, projects), monitor remaining lifetimes through reactive countdowns, receive offline-resilient expiry alerts, and conduct honest assisted closures.
 
